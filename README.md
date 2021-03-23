@@ -2,4 +2,4 @@
 
 I'm a programmer that has primarily worked in C# Unity and C++ Unreal but is always open to trying new languages and engines.
 
-I hope you enjoy my very epic profile picture that I made when I was 12
+I hope you enjoy my very epic profile picture I made when I was 12
